@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'TimesLTStd-Italic';
+  src: url('TimesLTStd-Italic.eot?#iefix') format('embedded-opentype'),  url('TimesLTStd-Italic.otf')  format('opentype'),
+	     url('TimesLTStd-Italic.woff') format('woff'), url('TimesLTStd-Italic.ttf')  format('truetype'), url('TimesLTStd-Italic.svg#TimesLTStd-Italic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
