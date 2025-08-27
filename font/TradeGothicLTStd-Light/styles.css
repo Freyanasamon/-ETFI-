@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'TradeGothicLTStd-Light';
+  src: url('TradeGothicLTStd-Light.eot?#iefix') format('embedded-opentype'),  url('TradeGothicLTStd-Light.otf')  format('opentype'),
+	     url('TradeGothicLTStd-Light.woff') format('woff'), url('TradeGothicLTStd-Light.ttf')  format('truetype'), url('TradeGothicLTStd-Light.svg#TradeGothicLTStd-Light') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
